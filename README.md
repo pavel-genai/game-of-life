@@ -1,5 +1,7 @@
 # Conway's Game of Life
 
+[![CI](https://github.com/pavel-genai/game-of-life/actions/workflows/ci.yml/badge.svg)](https://github.com/pavel-genai/game-of-life/actions/workflows/ci.yml)
+
 A Clojure implementation of Conway's Game of Life with a set-based infinite grid, pattern library, RLE import/export, and terminal animation.
 
 ## Project Structure
