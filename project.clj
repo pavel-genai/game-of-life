@@ -3,7 +3,7 @@
   :license {:name "MIT"}
   :dependencies [[org.clojure/clojure "1.11.1"]
                  [org.clojure/tools.cli "1.1.230"]]
-  :plugins [[cloverage "1.2.4"]]
+  :plugins [[lein-cloverage "1.2.4"]]
   :main game-of-life.core
   :aot [game-of-life.core]
   :profiles {:dev {:dependencies [[org.clojure/test.check "1.1.1"]]}})
